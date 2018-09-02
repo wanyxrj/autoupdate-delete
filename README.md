@@ -1,1 +1,1 @@
-# autoupdate-delete
+使用python的beautiful soup模块自动下载更新文件服务器上的文件
